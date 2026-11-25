@@ -1,6 +1,6 @@
 version: 2
 updates:
-  # org-profile (.github repo) and markdown-pages.js
+  # org-profile submodule (.github repo)
   - package-ecosystem: gitsubmodule
     directory: /
     schedule:
