@@ -1,0 +1,6 @@
+[submodule "org-profile"]
+	path = org-profile
+	url = https://github.com/schreibtischhelden/.github.git
+[submodule "markdown-pages.js"]
+	path = markdown-pages.js
+	url = https://github.com/schreibtischhelden/markdown-pages.js.git

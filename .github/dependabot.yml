@@ -1,0 +1,11 @@
+version: 2
+updates:
+  # org-profile (.github repo) and markdown-pages.js
+  - package-ecosystem: gitsubmodule
+    directory: /
+    schedule:
+      interval: daily
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
